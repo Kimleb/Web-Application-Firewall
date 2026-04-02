@@ -276,4 +276,4 @@ This project is for educational purposes only. Do not use against systems you do
 
 ---
 
-*Built with 🔐 by [YOUR NAME] | Home Lab Security Documentation*
+Built with 🔐 by CalebKimutai | Home Lab Security Documentation
